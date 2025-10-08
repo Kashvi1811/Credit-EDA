@@ -30,12 +30,15 @@ The repository provides:
 
 ## 📂 Project Structure
 credit-risk-eda/
-├── application_data.csv        # Client details at loan application
-├── previous_application.csv    # Records of previous loans
-├── columns_description.csv     # Data dictionary
-└── credit_eda.ipynb            # Full EDA notebook
-├── requirements.txt            # Dependencies
-└── README.md                   # Project documentation
+
+| File                 | Description                          |
+|---------------------------------|--------------------------------------|
+| `application_data.csv`           | Client details at loan application   |
+| `previous_application.csv`       | Records of previous loans            |
+| `columns_description.csv`        | Data dictionary                       |
+| `credit_eda.ipynb`               | Full EDA notebook                     |
+| `requirements.txt`               | Dependencies                           |
+| `README.md`                      | Project documentation                 |
 
 ## ⚡ Getting Started
 1. Clone the repository:
