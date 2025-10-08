@@ -43,8 +43,8 @@ credit-risk-eda/
 ## ⚡ Getting Started
 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/credit-risk-eda.git
-cd credit-risk-eda
+git clone https://github.com/Kashvi1811/Credit-EDA/.git
+cd Credit-EDA
 ````
 
 2. (Optional) Create a virtual environment:
