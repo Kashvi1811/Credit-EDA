@@ -33,8 +33,8 @@ credit-risk-eda/
 
 | File                 | Description                          |
 |---------------------------------|--------------------------------------|
-| `application_data.csv`           | Client details at loan application   |
-| `previous_application.csv`       | Records of previous loans            |
+| `application_data.zip`           | Client details at loan application   |
+| `previous_application.zip`       | Records of previous loans            |
 | `columns_description.xlsx`       | Data dictionary                       |
 | `credit_eda.ipynb`               | Full EDA notebook                     |
 | `requirements.txt`               | Dependencies                           |
