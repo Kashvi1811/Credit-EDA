@@ -35,7 +35,7 @@ credit-risk-eda/
 |---------------------------------|--------------------------------------|
 | `application_data.csv`           | Client details at loan application   |
 | `previous_application.csv`       | Records of previous loans            |
-| `columns_description.csv`        | Data dictionary                       |
+| `columns_description.xlsx`       | Data dictionary                       |
 | `credit_eda.ipynb`               | Full EDA notebook                     |
 | `requirements.txt`               | Dependencies                           |
 | `README.md`                      | Project documentation                 |
@@ -64,7 +64,9 @@ pip install -r requirements.txt
 ## 🖥️ Usage
 
 - Open the Jupyter Notebook:
-jupyter notebook notebooks/credit_eda.ipynb
+```bash
+jupyter notebook credit_eda.ipynb
+```
 
 - Run the notebook step by step to explore:
 - Data cleaning & preprocessing.
